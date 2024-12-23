@@ -32,6 +32,10 @@ body::-webkit-scrollbar-track{
   background: #101010;
 }
 
+main{
+  overflow-x: hidden;
+}
+
 canvas{
   touch-action: none;
 }
