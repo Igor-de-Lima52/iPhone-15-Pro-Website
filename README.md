@@ -19,7 +19,7 @@ The site was developed with the following technologies and libraries:
 To install project dependencies, run the following comand:
 
 ```bash
-npm i
+npm install
 ```
 
 ## 🚀 Running the project
