@@ -24,7 +24,7 @@ npm install
 
 ## 🚀 Running the project
 
-Start the development environment with the command
+Start the development environment with the command:
 
 ```bash
 npm run dev
