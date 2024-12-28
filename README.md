@@ -14,7 +14,7 @@ The site was developed with the following technologies and libraries:
 - **GSAP**: Library for advanced animations.
 - **Three.js**: Library for rendering and manipulating 3D graphics.
 
-## ⚙️ Instalation
+## ⚙️ Installation
 
 To install project dependencies, run the following comand:
 
