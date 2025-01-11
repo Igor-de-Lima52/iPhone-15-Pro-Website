@@ -50,3 +50,7 @@ npm run build
 - The site attracted a good number of visitors, around 2500, and performed excellently, loading in 1.2 seconds.
 
 - The click-through rate (CTR) was approximately 15%, demonstrating that users were engaged with the content.
+
+## 🛑 Important Note
+
+This project does not have a backend. All interactive elements are illustrative, without communication with a server.
